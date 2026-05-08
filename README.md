@@ -7,7 +7,7 @@ React • JavaScript • Vite • Bun • HTML • CSS • SCSS • Git
 
 Можно красиво через badges.
 
-<h2>🚀 Featured Projects</h2>
+<h2>🚀 Featured Projects</h2> 
 
 <table>
 <tr>
