@@ -118,23 +118,11 @@ Responsive payment form interface with clean UI and reusable form components.
 
 ## 📊 GitHub Stats
 
-
-<table align="center" valign="top">
-<tr>
-<td colspan="2" width="100%">
+<div id="stats" align="center" width="100%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlianGrey&theme=nord_bright">
-</td>
-</tr>
-<tr>
-<td width="50%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlianGrey&theme=nord_bright">
-</td>
-<td width="50%">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlianGrey&theme=nord_bright">
-</td>
-</tr>
-
-
+</div>
 
 ## 📬 Contact
 - GitHub: [AlianGrey](https://github.com/AlianGrey)
