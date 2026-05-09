@@ -2,10 +2,21 @@
 
 Frontend Developer focused on React and JavaScript.
 
-## 🛠 Tech Stack
-React • JavaScript • Vite • Bun • HTML • CSS • SCSS • Git
+<br>
 
-Можно красиво через badges.
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+  
+
 
 <h2>🚀 Featured Projects</h2> 
 
@@ -102,10 +113,15 @@ Responsive payment form interface with clean UI and reusable form components.
 
 </table>
 
+<br>
+
 
 ## 📊 GitHub Stats
-
-Можно добавить статистику.
+<div id="stats" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlianGrey&theme=algolia">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlianGrey&theme=algolia">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlianGrey&theme=algolia">
+</div>
 
 ## 📬 Contact
 - GitHub: [AlianGrey](https://github.com/AlianGrey)
