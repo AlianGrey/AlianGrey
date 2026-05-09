@@ -117,8 +117,8 @@ Responsive payment form interface with clean UI and reusable form components.
 
 
 ## 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlianGrey&theme=swift) 
 <div id="stats" align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlianGrey&theme=swift">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlianGrey&theme=swift">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlianGrey&theme=swift">
 </div>
