@@ -5,14 +5,19 @@ Frontend Developer focused on React and JavaScript.
 <br>
 
 ## 🛠 Tech Stack
+
+<p align="center">
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+</p>
+<p align="center">
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</p>
 
 <br>
   
@@ -135,7 +140,9 @@ Responsive payment form interface with clean UI and reusable form components.
 </tr>
 </table>
 
+
 ## 📬 Contact
-- GitHub: [AlianGrey](https://github.com/AlianGrey)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kostrikinaelena/)
-- Email: ek371117@gmail.com
+
+- 💻 GitHub: [AlianGrey](https://github.com/AlianGrey)
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kostrikinaelena/)
+- 📧 Email: ek371117@gmail.com
