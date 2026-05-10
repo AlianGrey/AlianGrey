@@ -7,7 +7,7 @@ Currently learning advanced React patterns.
 🚀 Open to work  
 </p>
 <p align="center">
-<a href="https://drive.google.com/file/d/1I-HevFaURjJAuvmIt02QMfVo8dru5Lyx/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1I-HevFaURjJAuvmIt02QMfVo8dru5Lyx/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/cv-View%20my%20CV-61DAFB?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
 </p>
