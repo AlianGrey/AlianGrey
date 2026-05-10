@@ -1,6 +1,7 @@
 ## 👋 Intro
 
 Frontend Developer focused on React and JavaScript.
+Currently learning advanced React patterns
 
 <br>
 
@@ -141,9 +142,22 @@ Responsive payment form interface with clean UI and reusable form components.
 </table>
 
 
+### 🔥 GitHub Streak Stats
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlianGrey" alt="GitHub Streak" /></a>
+</p>
 
-## 📬 Contact
 
-- 💻 GitHub: [AlianGrey](https://github.com/AlianGrey)
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kostrikinaelena/)
-- 📧 Email: ek371117@gmail.com
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kostrikinaelena/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/AlianGrey">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:ek371116@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
