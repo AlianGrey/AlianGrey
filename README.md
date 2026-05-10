@@ -1,12 +1,14 @@
 ## 👋 Hi, I'm Elena
-
+<p align="center">
 Frontend Developer focused on React and JavaScript.
 Currently learning advanced React patterns.
-
+</p>
+<p align="center">
 🚀 Open to work  
-
-![Static Badge](https://img.shields.io/badge/cv-View%20my%20CV-61DAFB?style=for-the-badge&logo=readdotcv&logoColor=white&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1I-HevFaURjJAuvmIt02QMfVo8dru5Lyx%2Fview%3Fusp%3Dsharing)
-
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/cv-View%20my%20CV-61DAFB?style=for-the-badge&logo=readdotcv&logoColor=white&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1I-HevFaURjJAuvmIt02QMfVo8dru5Lyx%2Fview%3Fusp%3Dsharing" />
+</p>
 <br>
 
 ## 🛠 Tech Stack
@@ -140,14 +142,18 @@ Responsive payment form interface with clean UI and reusable form components.
 </tr>
 </table>
 
+---
 
-### 🔥 GitHub Streak Stats
+<h3 align="center"> 🔥 GitHub Streak Stats </h3>
+
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlianGrey" alt="GitHub Streak" /></a>
 </p>
-
+<br>
 
 ## 📬 Connect with Me
+<br>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kostrikinaelena/">
