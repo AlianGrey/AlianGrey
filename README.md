@@ -1,8 +1,14 @@
-## 👋 Intro
+## 👋 Hi, I'm Elena
 
 Frontend Developer focused on React and JavaScript.
-Currently learning advanced React patterns
+Currently learning advanced React patterns.
 
+🚀 Open to work  
+<p align="left">
+  <a href="https://drive.google.com/file/d/1I-HevFaURjJAuvmIt02QMfVo8dru5Lyx/view?usp=sharing">
+    📄 Download CV
+  </a>
+</p>
 <br>
 
 ## 🛠 Tech Stack
@@ -12,17 +18,12 @@ Currently learning advanced React patterns
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-<br>
-  
+<br>  
 
 <h2>🚀 Featured Projects</h2> 
 
