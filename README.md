@@ -4,11 +4,9 @@ Frontend Developer focused on React and JavaScript.
 Currently learning advanced React patterns.
 
 🚀 Open to work  
-<p align="left">
-  <a href="https://drive.google.com/file/d/1I-HevFaURjJAuvmIt02QMfVo8dru5Lyx/view?usp=sharing">
-    📄 Download CV
-  </a>
-</p>
+
+![Static Badge](https://img.shields.io/badge/cv-View%20my%20CV-61DAFB?style=for-the-badge&logo=readdotcv&logoColor=white&link=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1I-HevFaURjJAuvmIt02QMfVo8dru5Lyx%2Fview%3Fusp%3Dsharing)
+
 <br>
 
 ## 🛠 Tech Stack
